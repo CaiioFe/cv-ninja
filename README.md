@@ -1,14 +1,14 @@
 # CV Ninja 🥷
 
-> Ajuste inteligente de currículo para cada vaga — a IA adapta seu CV à descrição da vaga, em português e inglês, com download em PDF.
+> Ajuste inteligente de currículo para cada vaga: a IA adapta seu CV à descrição da vaga, em português e inglês, com download em PDF.
 
 ## O problema
 
-Recrutadores (e os robôs de ATS) descartam currículos genéricos em segundos. Adaptar o CV para cada vaga funciona — mas ninguém tem tempo de reescrever o currículo 30 vezes.
+Recrutadores (e os robôs de ATS) descartam currículos genéricos em segundos. Adaptar o CV para cada vaga funciona, mas ninguém tem tempo de reescrever o currículo 30 vezes.
 
 ## A solução
 
-O CV Ninja recebe seu currículo e a descrição da vaga, e a IA reescreve o CV destacando exatamente o que aquela vaga pede — mantendo a verdade do seu histórico, em **PT ou EN**, pronto para baixar em PDF.
+O CV Ninja recebe seu currículo e a descrição da vaga, e a IA reescreve o CV destacando exatamente o que aquela vaga pede, mantendo a verdade do seu histórico, em **PT ou EN**, pronto para baixar em PDF.
 
 ## Funcionalidades
 
@@ -23,9 +23,9 @@ O CV Ninja recebe seu currículo e a descrição da vaga, e a IA reescreve o CV 
 
 ## Status
 
-🚧 Em evolução — modelo de precificação por consumo em definição.
+🚧 Em evolução: modelo de precificação por consumo em definição.
 
-> 🔒 Este repositório é a vitrine do produto — o código-fonte é privado.
+> 🔒 Este repositório é a vitrine do produto. O código-fonte é privado.
 
 ---
 

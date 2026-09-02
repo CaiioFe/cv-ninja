@@ -23,17 +23,19 @@ O CV Ninja recebe seu currículo e a descrição da vaga, e a IA reescreve o CV 
 
 ## Funcionalidades
 
-- **Ajuste por vaga**: cole a descrição, receba o CV otimizado com match score e gaps de competência
+- **Ajuste por vaga com IA**: envie o currículo (docx/pdf), cole a vaga, receba de volta otimizado com match score, gaps de competência e perguntas de entrevista prováveis — em menos de 2 minutos
 - **Minha Trilha**: gamificação do desenvolvimento profissional — pontos, nível, match médio entre otimizações e mapa dos gaps que mais se repetem entre as vagas aplicadas
-- **Candidaturas**: kanban de status por vaga (aplicada, entrevista, oferta, recusada, aceita, desistiu), com link da vaga e notas
+- **Candidaturas**: extrai os dados da vaga automaticamente a partir do link (scraping) e organiza por status (aplicada, entrevista, oferta, recusada, aceita, desistiu), com notas
 - **Bilíngue**: português e inglês, preservando a formatação original do currículo
 - **Export em PDF** com formatação profissional
-- **Cobrança por consumo**: integração de pagamentos e página de planos para quem passa do uso gratuito
+- **Créditos e planos**: toda conta nova começa com 2 análises grátis; upgrade via Pix (Zoop), com confirmação automática por webhook
+- **Painel admin**: estatísticas de uso e gestão de créditos dos usuários
+- **Depoimentos**: página pública de prova social
 - **IA como copiloto**, não inventora: realça o que você já tem, não inventa experiência
 
 ## Stack
 
-`IA (LLM)` `React` `TypeScript` `Supabase` `Geração de PDF` `Pagamentos`
+`IA (LLM)` `React` `TypeScript` `Supabase` `Geração de PDF` `Zoop (Pix)`
 
 ## Status
 

@@ -2,9 +2,16 @@
 
 > Ajuste inteligente de currículo para cada vaga: a IA adapta seu CV à descrição da vaga, em português e inglês, com download em PDF.
 
-![Home](screenshots/01-home.png)
-![Minha Trilha](screenshots/02-trilha.png)
-![Candidaturas](screenshots/03-candidaturas.png)
+<table>
+<tr>
+<td width="50%"><img src="screenshots/01-home.png" /><br><sub>Envio do currículo + vaga</sub></td>
+<td width="50%"><img src="screenshots/02-trilha.png" /><br><sub>Minha Trilha (gamificação)</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/03-candidaturas.png" /><br><sub>Candidaturas (kanban de vagas)</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ## O problema
 

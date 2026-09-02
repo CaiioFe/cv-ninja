@@ -5,10 +5,14 @@
 <table>
 <tr>
 <td width="50%"><img src="screenshots/01-home.png" /><br><sub>Envio do currículo + vaga</sub></td>
-<td width="50%"><img src="screenshots/02-trilha.png" /><br><sub>Minha Trilha (gamificação)</sub></td>
+<td width="50%"><img src="screenshots/02-analise.png" /><br><sub>Análise em andamento</sub></td>
 </tr>
 <tr>
-<td width="50%"><img src="screenshots/03-candidaturas.png" /><br><sub>Candidaturas (kanban de vagas)</sub></td>
+<td width="50%"><img src="screenshots/03-resultado.png" /><br><sub>Resultado: match score e pontos fortes</sub></td>
+<td width="50%"><img src="screenshots/04-trilha.png" /><br><sub>Minha Trilha (gamificação)</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/05-candidaturas.png" /><br><sub>Candidaturas (kanban de vagas)</sub></td>
 <td width="50%"></td>
 </tr>
 </table>
@@ -23,7 +27,7 @@ O CV Ninja recebe seu currículo e a descrição da vaga, e a IA reescreve o CV 
 
 ## Funcionalidades
 
-- **Ajuste por vaga com IA**: envie o currículo (docx/pdf), cole a vaga, receba de volta otimizado com match score, gaps de competência e perguntas de entrevista prováveis — em menos de 2 minutos
+- **Ajuste por vaga com IA**: envie o currículo (docx/pdf), cole a vaga, receba de volta otimizado com match score geral e por categoria (experiência no setor, stack técnico, impacto operacional, gestão de stakeholders etc.), pontos fortes pra vaga e insights de alinhamento
 - **Minha Trilha**: gamificação do desenvolvimento profissional — pontos, nível, match médio entre otimizações e mapa dos gaps que mais se repetem entre as vagas aplicadas
 - **Candidaturas**: extrai os dados da vaga automaticamente a partir do link (scraping) e organiza por status (aplicada, entrevista, oferta, recusada, aceita, desistiu), com notas
 - **Bilíngue**: português e inglês, preservando a formatação original do currículo
